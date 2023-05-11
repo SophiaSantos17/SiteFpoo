@@ -1,0 +1,43 @@
+@import url(reset.css);
+
+h2{
+    padding: 20px;
+    font-size: 30px;
+}
+p{
+    padding: 10px;
+}
+#content{
+    text-align: center;
+    padding: 0 0 50px 0;
+}
+.sobre{
+    background-color: #222;
+    padding: 30px 200px;
+    color: #fff;
+}
+.sobre p{
+    text-align: justify;
+    font-size: 17px;
+}
+.variaveis{
+    padding: 30px 200px;
+}
+.variaveis li{
+    text-align: center;
+}
+.variaveis p{
+    text-align: center;
+    font-size: 19px;
+}
+
+.acess-elemnt{
+    padding: 30px 200px;
+    background-color: #222;
+    color: white;
+}
+
+.acess-elemnt p{
+    text-align: justify;
+    font-size: 19px;
+}

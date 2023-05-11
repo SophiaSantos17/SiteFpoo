@@ -1,0 +1,32 @@
+@import url(reset.css);
+
+body{
+    font-size: 20px;
+}
+#container{
+    padding: 20px 80px;
+}
+.titulo{
+    text-align: center;
+    color: #9307d9;
+}
+
+h3{
+    text-align: center;
+    color: #9307d9;
+}
+
+.inicio{
+    width: 40%;
+    height: 40%;
+}
+
+.tags{
+    width: 15%;
+    height: 15%;
+}
+
+.imagem{
+    display: flex;
+    justify-content: center;
+}

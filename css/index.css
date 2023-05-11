@@ -1,0 +1,48 @@
+
+@import url(reset.css);
+
+body{
+    width: 100%;
+}
+
+
+section{
+    width: 100%;
+    height: 50vh;
+    border-bottom: #222 1px solid;
+    display: flex;
+    justify-content: center;
+    /* background-color: #9307d9; */
+}
+section h2{
+    font-size: 40px;
+    margin-bottom: 30px;
+    margin-bottom: 30px;
+}
+
+section p{
+    font-size: 20px;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    margin-bottom: 30px;
+    /* width: 80%; */
+}
+
+.box-content{
+    text-align: center;
+    padding: 30px;
+
+}
+
+section button{
+    padding: 7px 40px;
+    background-color: #222;
+    font-family: 'Quicksand', sans-serif;
+    border-radius: 7px;
+    color: white;
+    border: none;
+}
+
+section button:hover{
+    background-color: #9307d9;
+    transition: ease .7s all;
+}

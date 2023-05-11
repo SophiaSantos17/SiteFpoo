@@ -1,0 +1,44 @@
+@import url(reset.css);
+
+* {
+    font-size: 20px;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+#container{
+    padding: 20px 80px;
+}
+h1 {
+    text-align: center;
+    background-color: #222222;
+    color: #ffffff;
+}
+
+.title {
+    text-align: center;
+    color: #9307d9;
+
+}
+
+#tdd{
+    width: 300px ;
+}
+
+.imgs{
+    display: flex;
+    justify-content: center;
+}
+
+#titulo h3{
+    text-align: center;
+    color: #6f2097;
+}
+
+#titulo h2{
+    text-align: center;
+    color: #9307d9;
+
+}

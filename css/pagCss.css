@@ -1,0 +1,49 @@
+@import url(reset.css);
+
+body{
+    text-align: center;
+    /* width: 80%; */
+}
+#container{
+    padding: 20px 80px;
+}
+/* #container{
+    display: flex;
+    justify-content: center;
+}
+.content{
+    width: 80%;
+} */
+p{
+    text-align: justify;
+    font-size: 20px;
+    
+}
+
+.inicio{
+    width: 30%;
+    height: 30%;
+}
+
+
+h1{
+    text-align: center;
+}
+
+.nohtml{
+    width: 70%;
+    height: 20%;
+}
+
+.nocss{
+    width: 40%;
+    height: 60%;
+
+}
+
+.resultado{
+    width: 50%;
+    height: 50%;
+    border: solid 1px black;
+}
+

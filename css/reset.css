@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Quicksand', sans-serif;
+}
+p, th,tr,td,li{
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+a, li{
+    text-decoration: none;
+    list-style: none;
+}
